@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com/devclub">DevClub</a></h2>
+<h2>Esse foi meu terceiro  projeto que desenvolvi no <a href="https://rodolfomori.com/devclub">DevClub</a></h2>
 <br>
 <p>Foram utilizados os conceitos aprendidos em aula de HTML5 e CSS e conforme proposto no desafio tambem foi aplicado um pouco de responsividade ao projeto </p>
 <h2>Tecnologias Utilizadas:</h2>
