@@ -19,7 +19,7 @@
 
 <div display="flex">
   
-<img src="https://github.com/Phelipefb/Easy-Shopping/blob/main/img/Desktop.png?raw=true"  width="600px" height="300px"  title="Desktop"/>
+<img src="https://github.com/Phelipefb/Easy-Shopping-via-Mobile/blob/main/assets/Desktop.png?raw=true"  width="600px" height="300px"  title="Desktop"/>
   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
 <img src="https://github.com/Phelipefb/Easy-Shopping/blob/main/img/Mobile.png?raw=true" width="250px" height="300" title="Mobile"/>
 </div>
